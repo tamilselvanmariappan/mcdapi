@@ -1,0 +1,2 @@
+# mcdapi
+My Campusdiary API
